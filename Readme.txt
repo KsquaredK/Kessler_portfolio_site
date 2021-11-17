@@ -2,7 +2,7 @@ a single page portfolio of my web development work
 
 
 
-
+![preview of portfolio site header](/assets/img/KK_portfolio_site.jr.mov)
 
 
 Template Name: Folio
