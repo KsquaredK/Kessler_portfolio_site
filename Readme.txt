@@ -1,4 +1,9 @@
-Thanks for downloading this template!
+a single page portfolio of my web development work
+
+
+
+
+
 
 Template Name: Folio
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
