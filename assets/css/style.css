@@ -415,22 +415,24 @@ p {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #bc2429;;
 }
 
 .hero-content p {
   font-size: 13px;
   letter-spacing: 3px;
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: px;
   text-transform: capitalize;
-  color: #fff;
+  color: darkslategray;
   font-weight: 500;
+  padding-bottom: 20rem;
 }
 
 .hero-content .list-social li {
   float: left;
   margin-right: 20px;
+  padding-top: 1.5rem;
 }
 
 .hero-content .list-social li i {
